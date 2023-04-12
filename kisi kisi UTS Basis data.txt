@@ -1,0 +1,23 @@
+UTS Teori : Tulis tangan 
+materinya :
+DDL (Data Definition Language)
+Create 
+Alter 
+Drop 
+DML (Data Manipulation Language)
+Perintah Perintah Select
+String Function
+
+
+UTS Praktek : on PC
+Materi :
+Innjer Join
+Create
+Alter
+View
+
+
+UAS (Untuk sekarang)
+Materi : 
+Procedure
+Function
